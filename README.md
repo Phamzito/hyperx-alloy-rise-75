@@ -6,4 +6,4 @@ Este repositorio contiene informacion de la pcb del teclado **HyperX Alloy Rise 
 
 | Componentes Internos | Layout de la PCB | Detalle del MCU |
 | :---: | :---: | :---: |
-| ![Vista General PCB](img/PCB%201.jpeg) | ![Trazado de Circuito](img/PCB%202.jpeg) | ![MCU NXP LPC5516](img/PCB%20MCU.png) |
+| ![Vista General PCB](img/PCB%201.jpeg) | ![Trazado de Circuito](img/PCB%202.jpeg) | ![MCU NXP LPC5516](img/PCB%20MCU.jpeg) |
