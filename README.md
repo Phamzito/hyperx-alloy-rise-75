@@ -1,8 +1,9 @@
-# hyperx-alloy-rise-75-usb
-analisis del teclado hyperx alloy rise 75
+# HyperX Alloy Rise 75 - Hardware Analysis & Custom Firmware
 
-## Galería del Proyecto
+Este repositorio contiene informacion de la pcb del teclado **HyperX Alloy Rise 75**
 
-| Imagen 1 | Imagen 2 | Imagen 3 |
+## 📸 Galería del Hardware
+
+| Componentes Internos | Layout de la PCB | Detalle del MCU |
 | :---: | :---: | :---: |
-| ![Descripción 1](img/PCB 1.jpeg) | ![Descripción 2](img/PCB 2.jpeg) | ![Descripción 3](img/PCB MCU.png) |
+| ![Vista General PCB](img/PCB%201.jpeg) | ![Trazado de Circuito](img/PCB%202.jpeg) | ![MCU NXP LPC5516](img/PCB%20MCU.png) |
