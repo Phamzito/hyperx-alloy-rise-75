@@ -5,6 +5,6 @@ Project Zephyr tiene soporte para este mcu por lo que he visto, tal vez zmk tamb
 
 ## 📸 Hardware
 
-| Cara A | Cara B | MCU |
+| Cara A | Cara B | MCU | Test Point |
 | :---: | :---: | :---: | :---: |
 | ![PCB](img/PCB%201.jpeg) | ![TPCB](img/PCB%202.jpeg) | ![MCU NXP LPC5516](img/PCB%20MCU.jpeg) | ![ISP Point](img/Test%20Point%20ISP%20Mode.jpeg) |
